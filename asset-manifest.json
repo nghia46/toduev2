@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/toduev2/static/css/main.1d03198f.css",
+    "main.js": "/toduev2/static/js/main.248bf80f.js",
+    "index.html": "/toduev2/index.html",
+    "main.1d03198f.css.map": "/toduev2/static/css/main.1d03198f.css.map",
+    "main.248bf80f.js.map": "/toduev2/static/js/main.248bf80f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1d03198f.css",
+    "static/js/main.248bf80f.js"
+  ]
+}

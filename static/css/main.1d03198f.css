@@ -1,0 +1,2 @@
+.container{display:flex;justify-content:center;padding-top:10rem}.content{max-width:40rem;width:100%}.center{text-align:center}@media only screen and (max-width:600px){.container{padding-top:1rem}}.flex-container{display:flex;justify-content:space-between}.flex-container>div:first-child{margin-top:.4rem}.flex-container>div:nth-child(2){margin-left:1rem;margin-right:auto;margin-top:.3rem}.flex-container>div:nth-child(3){margin-left:.2rem}
+/*# sourceMappingURL=main.1d03198f.css.map*/
